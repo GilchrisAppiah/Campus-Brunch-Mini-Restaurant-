@@ -1,0 +1,21 @@
+🏗️ System Architecture & Tooling
+Frontend Experience: Framer — used to build a high-conversion, guided entry point for customers.
+
+Data Collection: Google Forms — provides a structured schema for capturing order details consistently.
+
+Transaction Processing: Paystack — handles the secure financial layer and provides the API hooks for validation.
+
+Logic & Integration: n8n.io — the "System Glue" that listens for payments and updates the database automatically.
+
+Primary Database: Airtable — acts as the "Single Source of Truth," linking customers, payments, and orders.
+
+Business Intelligence: Looker Studio — visualizes the database into real-time charts for executive decision-making.
+
+
+
+🚀 Why this Stack?
+Modular: You can upgrade any piece (e.g., moving from Sheets to a SQL database) without rebuilding the entire system.
+
+Low Friction: Customers don't need to create accounts; the system tracks them via unique identifiers (Phone/Email).
+
+Cost-Effective: Uses high-performance tools that scale with the business volume.
