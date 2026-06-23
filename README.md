@@ -11,7 +11,7 @@ Phase 2: Foundation (Digitization & Data Harvesting)The Shift: Introduced Google
 
 Phase 3: Optimization (The Experience & Quality Layer)The Shift: Deployed a Framer-led frontend to control the user journey.The Gain: By designing a guided flow, we improved "Data Hygiene." Users were funnelled through a branded experience that reduced input errors and increased customer trust.Strategic Insight: Transitioned from simply "using tools" to "System Design Thinking," where the interface ensures the quality of the data collected.
 
-Phase 4: The North Star (Fully Integrated Intelligence)The Shift: Unifying the frontend (Framer), backend (Database), and Payment Gateway (Paystack) into a seamless loop.The Gain: * Automated Validation: Payment success triggers order confirmation instantly.Real-Time Analytics: A live dashboard showing peak order times, revenue per combo, and customer retention rates.The Business Impact: Data-driven scaling. The business can now scientifically decide which combos to cut, when to increase stock, and how to optimize delivery routes.
+Phase 4: The North Star (Fully Integrated Intelligence)The Shift: Unifying the frontend (Framer), backend (Supabase), and Payment Gateway (Paystack) into a seamless loop.The Gain: * Automated Validation: Payment success triggers order confirmation instantly.Real-Time Analytics: A live dashboard showing peak order times, revenue per combo, and customer retention rates.The Business Impact: Data-driven scaling. The business can now scientifically decide which combos to cut, when to increase stock, and how to optimize delivery routes.
 
 📈 Key Business Gains 
 
